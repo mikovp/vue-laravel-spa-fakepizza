@@ -3,7 +3,7 @@
 Vue 2.6/Laravel 8/example Pizza app
 
 
-> Inspiration from []()
+> Inspiration from [https://github.com/mikovp/fakepizza](https://github.com/mikovp/fakepizza)
 
 <img src="demo.gif" width="416">
 
