@@ -29,7 +29,7 @@ composer install
 cp .env.example .env
 ```
 
-5. Modify `DB_*` value in `.env` with your database config.
+5. Create `laravel` in your database.
 
 6. Generate application key:
 
