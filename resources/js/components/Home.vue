@@ -35,7 +35,7 @@ export default {
     data() {
         return {
             products: [],
-            items: JSON.parse(localStorage.items),
+            items: [], //JSON.parse(localStorage.items),
             currency: 0, //default currency
         }
     },
