@@ -93,3 +93,14 @@ docker-compose exec myapp php artisan migrate:fresh --seed
 docker-compose exec myapp php artisan migrate:fresh --seed
 ````
 
+8. Install Node modules
+````
+docker-compose exec myapp npm install
+````
+
+9. Build
+
+````
+docker-compose exec myapp npm run prod
+````
+
