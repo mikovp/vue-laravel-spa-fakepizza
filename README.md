@@ -53,4 +53,43 @@ npm install
 npm run prod
 ````
 
+### Installation with Docker 
+
+> Inspiration from [https://hub.docker.com/r/bitnami/laravel](https://hub.docker.com/r/bitnami/laravel)
+
+
+1. Clone repo
+
+2. Change to directory
+
+````
+cd fakepizza
+```` 
+
+3. Download the docker-compose.yml file in the application directory
+
+````
+curl -LO https://raw.githubusercontent.com/bitnami/bitnami-docker-laravel/master/docker-compose.yml
+````
+
+4. Copy .env file
+
+```
+cp .env.example .env
+```
+
+5. Launch the Laravel application development environment using:
+
+```
+docker-compose up
+```
+6. Generate application key:
+````
+docker-compose exec myapp php artisan migrate:fresh --seed
+````
+
+7. Migrate/Seed
+````
+docker-compose exec myapp php artisan migrate:fresh --seed
+````
 
