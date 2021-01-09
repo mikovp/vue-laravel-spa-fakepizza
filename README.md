@@ -1,6 +1,6 @@
 # fakepizza
 
-Vue 2.6/Laravel 8/example Pizza app
+Bootstrap 4.5/Vue 2.6/Laravel 8 - example Pizza app
 
 
 > Inspiration from [https://github.com/mikovp/fakepizza](https://github.com/mikovp/fakepizza)
