@@ -50,7 +50,7 @@ npm install
 9. Build
 
 ````
-npm run dev
+npm run prod
 ````
 
 
