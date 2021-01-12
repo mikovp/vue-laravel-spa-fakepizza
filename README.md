@@ -1,6 +1,6 @@
 # fakepizza
 
-Bootstrap 4.5/Vue 2.6/Laravel 8 - example Pizza app
+Bootstrap 4.5/Vue 2.6/Laravel 8 - Simple Pizza app
 
 
 > Demo [FakePizza](http://178.217.158.43:3000)
