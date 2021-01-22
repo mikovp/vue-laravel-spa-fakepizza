@@ -83,7 +83,7 @@ docker-compose up
 ```
 6. Generate application key:
 ````
-docker-compose exec myapp php artisan migrate:fresh --seed
+docker-compose exec myapp php artisan key:generate
 ````
 
 7. Migrate/Seed
