@@ -3,7 +3,7 @@
 Bootstrap 4.5/Vue 2.6/Laravel 8 - Simple Pizza app
 
 
-<img src="demo.gif" width="700">
+<img src="demo.gif" width="800">
 
 ### Installation
 
