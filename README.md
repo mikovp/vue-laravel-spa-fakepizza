@@ -1,4 +1,4 @@
-# fakepizza
+# Vue Laravel SPA Fakepizza
 
 Bootstrap 4.5/Vue 2.6/Laravel 8 - Simple Pizza app
 
